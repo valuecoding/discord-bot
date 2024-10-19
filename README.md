@@ -26,7 +26,6 @@ pip install -r requirements.txt
 
 ## Code
 ```python
-# Dein Python-Code hier
 import discord
 from discord.ext import commands
 
